@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2Identity", "Task2Identity.csproj", "{912D3F4E-2B20-4E95-A347-AE781A92A3B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912D3F4E-2B20-4E95-A347-AE781A92A3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912D3F4E-2B20-4E95-A347-AE781A92A3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912D3F4E-2B20-4E95-A347-AE781A92A3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912D3F4E-2B20-4E95-A347-AE781A92A3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED8DFFD4-3EFF-4A55-9BB6-BFA361FF4925}
+	EndGlobalSection
+EndGlobal
